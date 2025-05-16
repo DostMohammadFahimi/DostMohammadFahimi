@@ -65,8 +65,14 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dost-mohammad-fahimi/)  
-[![Gmail](https://img.shields.io/badge/-dmfahimiiiii730@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmfahimiiiii730@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/dost-mohammad-fahimi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 10px;"/>
+  </a>
+  <a href="mailto:dmfahimiiiii730@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
