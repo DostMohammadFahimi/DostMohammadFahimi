@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Kazim Amiri</h1>
+<h1 align="center">Hi 👋, I'm Dost Mohammad Fahimi</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=600&lines=System+Analyst+%7C+MERN+Stack+Developer;Frontend+Engineer+%7C+Next.js+%7C+React.js;Backend+with+Express.js+%7C+MongoDB;Clean+Code+%7C+Scalable+Architecture+%7C+Open+Source+Contributor" alt="Typing SVG" />
