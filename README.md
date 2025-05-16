@@ -6,13 +6,13 @@
 
 <table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
 
-🎯 A passionate and detail-driven System Analyst & Designer and Full-Stack JavaScript Developer, focused on:
+🎯 A passionate and detail-driven **System Analyst & Designer** and **Full-Stack JavaScript Developer**, focused on:
 
 - 🧠 System Analysis & Design  
-- 🖼️ Building professional, user-centered interfaces  
-- ⚙️ Backend Engineering with Node.js & Express.js  
-- 🧩 Scalable architecture using MongoDB & RESTful APIs  
-- ⚡ Modern Frontend Engineering using React, Next.js, and TailwindCSS  
+- 🖼️ Building professional, user-centered interfaces
+- 🌐 End-to-End Web Development with the **MERN Stack**  
+- ⚙️ Backend Engineering with **Node.js** & **Express.js**   
+- ⚡ Modern Frontend Engineering using **React.js** ,**Next.js**, and **TailwindCSS**   
 - 🛠 Clean Code, Reusability, and Maintainability  
 
 <table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
