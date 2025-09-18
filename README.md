@@ -65,7 +65,7 @@
   <!-- Streak Stats - Full width -->
   <p>
     <a href="https://github.com/DostMohammadFahimi">
-      <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" />
+      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" />
     </a>
   </p>
 </div>
