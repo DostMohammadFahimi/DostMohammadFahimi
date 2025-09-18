@@ -65,9 +65,11 @@
 
 <p align="center">
   <a href="https://github.com/DostMohammadFahimi">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true&background=00000000" />
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" />
   </a>
 </p>
+
+
 
 
 
