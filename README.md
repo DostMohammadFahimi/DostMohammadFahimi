@@ -63,13 +63,6 @@
 
 ### 📅 Contribution Calendar
 
-### 📅 My Contributions
-
-<p align="center">
-  <!-- Contribution Grid (Heatmap) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
 <p align="center">
   <!-- Contribution Stats Overview -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DostMohammadFahimi&theme=github_dark" alt="Contribution Details" />
