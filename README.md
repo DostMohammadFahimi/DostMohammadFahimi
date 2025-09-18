@@ -54,9 +54,20 @@
 
 <table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-| ![Dost's GitHub stats](https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=algolia) |
+<p align="center">
+  <a href="https://github.com/DostMohammadFahimi">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DostMohammadFahimi">
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true&background=00000000" />
+  </a>
+</p>
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=react-dark)
