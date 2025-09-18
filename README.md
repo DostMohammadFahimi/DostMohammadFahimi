@@ -63,15 +63,23 @@
 
 ### 📅 Contribution Calendar
 
+### 📅 My Contributions
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/38BCF7/DostMohammadFahimi" alt="Dost's GitHub Contribution Graph" />
+  <!-- Contribution Grid (Heatmap) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DostMohammadFahimi&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <!-- Contribution Stats Overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DostMohammadFahimi&theme=github_dark" alt="Contribution Details" />
 </p>
 
-<table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
+<p align="center">
+  <!-- Commit Breakdown like '100% Commits, Issues, PRs' -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DostMohammadFahimi&theme=github_dark&utcOffset=4.5" alt="Commit Breakdown" />
+</p>
+
 
 ### 📬 Let's Connect
 
