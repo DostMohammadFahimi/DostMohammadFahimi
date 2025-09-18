@@ -55,18 +55,20 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+  <!-- Stats Cards - Will stack on mobile -->
   <a href="https://github.com/DostMohammadFahimi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DostMohammadFahimi">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" />
-  </a>
-</p>
+  
+  <!-- Streak Stats - Full width -->
+  <p>
+    <a href="https://github.com/DostMohammadFahimi">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" />
+    </a>
+  </p>
+</div>
 
 
 
