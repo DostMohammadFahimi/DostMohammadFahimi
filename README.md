@@ -61,6 +61,16 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=react-dark)
 
+### 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38BCF7/DostMohammadFahimi" alt="Dost's GitHub Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DostMohammadFahimi&theme=algolia&hide_border=true" alt="GitHub Streak" />
+</p>
+
 <table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
 
 ### 📬 Let's Connect
