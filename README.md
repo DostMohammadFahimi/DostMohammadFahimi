@@ -15,7 +15,7 @@
 - ⚡ Modern Frontend Engineering using **React.js** ,**Next.js**, and **TailwindCSS**   
 - 🛠 Clean Code, Reusability, and Maintainability  
 
-<table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
+<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
 ### 🚀 Tech Stack
 
