@@ -56,18 +56,22 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats Cards - Will stack on mobile -->
-  <a href="https://github.com/DostMohammadFahimi">
-    <img height="180em"  width="40%" src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" />
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
-  </a>
-  
-  <!-- Streak Stats - Full width -->
-  <p>
+  <!-- Stats Cards Container -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-bottom: 24px;">
     <a href="https://github.com/DostMohammadFahimi">
-      <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" />
+      <img height="180" style="max-width: 100%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" alt="GitHub Stats" />
     </a>
-  </p>
+    <a href="https://github.com/DostMohammadFahimi">
+      <img height="180" style="max-width: 100%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Languages" />
+    </a>
+  </div>
+  
+  <!-- Streak Stats -->
+  <div style="width: 100%; display: flex; justify-content: center;">
+    <a href="https://github.com/DostMohammadFahimi">
+      <img style="max-width: 90%; min-width: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
 </div>
 
 
