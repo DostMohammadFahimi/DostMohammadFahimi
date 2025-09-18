@@ -65,25 +65,23 @@
 
 <p align="center">
   <a href="https://github.com/DostMohammadFahimi">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true&background=00000000" />
-  </a>
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true&background=00000000" />
+  </a>
 </p>
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=react-dark)
 
 ### 📅 Contribution Calendar
 
 <p align="center">
-  <!-- Contribution Stats Overview -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DostMohammadFahimi&theme=github_dark" alt="Contribution Details" />
 </p>
 
 <p align="center">
-  <!-- Commit Breakdown like '100% Commits, Issues, PRs' -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DostMohammadFahimi&theme=github_dark&utcOffset=4.5" alt="Commit Breakdown" />
 </p>
 
+<table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
 
 ### 📬 Let's Connect
 
