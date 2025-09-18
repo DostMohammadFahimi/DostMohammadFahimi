@@ -55,7 +55,7 @@
 
 ### 📊 GitHub Analytics
 
-<p align="flex justify-between">
+<p align="center">
   <a href="https://github.com/DostMohammadFahimi">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
