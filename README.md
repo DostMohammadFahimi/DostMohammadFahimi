@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=500&lines=System+Analyst+%26+Designer;Frontend+Engineer+%7C+React+%2F+Next.js;MERN+Stack+Developer;Clean+Code+%7C+Systematic+Thinking;Open+Source+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
-
-<table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
+<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
 🎯 A passionate and detail-driven **System Analyst & Designer** and **Full-Stack JavaScript Developer**, focused on:
 
@@ -41,7 +40,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
+<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
 ### 🧠 System Analysis & Design
 
@@ -52,7 +51,7 @@
 - 🧪 Testing Strategy design for robust deployment
 - 📋 Tools used: Figma (for mockups)
 
-<table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
+<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
 ### 📊 GitHub Analytics
 
@@ -85,7 +84,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DostMohammadFahimi&theme=github_dark&utcOffset=4.5" alt="Commit Breakdown" />
 </p>
 
-<table><tr><td><img src="https://raw.githubusercontent.com/kalpak92/kalpak92/master/images/line.gif" width="100%" height="1"></td></tr></table>
+<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
 
 ### 📬 Let's Connect
 
