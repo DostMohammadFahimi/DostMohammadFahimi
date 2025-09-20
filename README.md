@@ -1,108 +1,142 @@
-<h1 align="center">Hi 👋, I'm Dost Mohammad Fahimi</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dost%20Mohammad%20Fahimi&fontSize=80&fontAlignY=35&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BCF7&center=true&vCenter=true&width=500&lines=System+Analyst+%26+Designer;Frontend+Engineer+%7C+React+%2F+Next.js;MERN+Stack+Developer;Clean+Code+%7C+Systematic+Thinking;Open+Source+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
-<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Dost+Mohammad+Fahimi!;System+Analyst+%26+Designer;Frontend+%2F+MERN+Stack+Developer;Open+Source+Enthusiast" />
+</h1>
 
-🎯 A passionate and detail-driven **System Analyst & Designer** and **Full-Stack JavaScript Developer**, focused on:
+<div align="center">
+  <p>🎓 B.Sc. in Computer Science @ Your University</p>
+  <p>💻 Passionate System Analyst & Fullstack Developer | MERN Stack & React.js Specialist</p>
+  <p>🚀 Turning complex systems into clean, scalable solutions</p>
+</div>
 
-- 🧠 System Analysis & Design  
-- 🖼️ Building professional, user-centered interfaces
-- 🌐 End-to-End Web Development with the **MERN Stack**  
-- ⚙️ Backend Engineering with **Node.js** & **Express.js**   
-- ⚡ Modern Frontend Engineering using **React.js** ,**Next.js**, and **TailwindCSS**   
-- 🛠 Clean Code, Reusability, and Maintainability  
+<div align="center">
+  <a href="mailto:dmfahimiiiii730@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dmfahimiiiii730@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dost-mohammad-fahimi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dost_Mohammad_Fahimi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/DostMohammadFahimi">
+    <img src="https://img.shields.io/badge/GitHub-DostMohammadFahimi-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
+<br/>
 
-### 🚀 Tech Stack
+## 🚀 About Me
 
-#### 🧩 Languages & Core
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- 🧠 **System Analyst & Designer** focused on requirement analysis, data modeling, and scalable architecture  
+- 🌱 Continuously learning **Next.js, TailwindCSS, Microservices**, and advanced MERN stack patterns  
+- ⚡ Strong believer in **Clean Code, Modular Design & Reusability**  
+- 💡 Enjoy solving complex problems and building high-performance web apps  
+- 🌍 Based in Afghanistan, coding for the world  
+- ☕ Fun fact: Debugging feels faster with coffee in hand
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/>
 
-#### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 💻 Tech Stack
 
-<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
+<div align="center">
+  <h3>Backend & Databases</h3>
+  <p>
+    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" /></a>
+    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" /></a>
+    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" /></a>
+  </p>
 
-### 🧠 System Analysis & Design
+  <h3>Frontend</h3>
+  <p>
+    <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" /></a>
+    <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" /></a>
+  </p>
 
-- 🔍 Requirement Analysis, stakeholder interviews & documentation
-- 📊 Data Modeling using ER diagrams & NoSQL schemas
-- 🧩 Modular System Architecture design with scalable microservices
-- ⚙️ API Design (RESTful) with versioning and security layers
-- 🧪 Testing Strategy design for robust deployment
-- 📋 Tools used: Figma (for mockups)
+  <h3>Tools & Platforms</h3>
+  <p>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" /></a>
+    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" /></a>
+    <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="40" height="40" /></a>
+    <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" /></a>
+  </p>
+</div>
 
-<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
+<hr/>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats Cards Container -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-bottom: 24px;">
-    <a href="https://github.com/DostMohammadFahimi">
-      <img height="180" style="max-width: 100%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=algolia&hide_border=true&include_all_commits=true&hide=issues" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/DostMohammadFahimi">
-      <img height="180" style="max-width: 100%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=algolia&hide_border=true&langs_count=6" alt="Top Languages" />
-    </a>
-  </div>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=radical&langs_count=6" height="180"/>
+</div>
+
   <!-- Streak Stats -->
   <div style="width: 100%; display: flex; justify-content: center;">
     <a href="https://github.com/DostMohammadFahimi">
       <img style="max-width: 90%; min-width: 300px;" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true" alt="GitHub Streak" />
     </a>
   </div>
-</div>
-
-
-
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=react-dark)
 
-### 📅 Contribution Calendar
+<hr/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DostMohammadFahimi&theme=github_dark" alt="Contribution Details" />
-</p>
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DostMohammadFahimi&theme=github_dark&utcOffset=4.5" alt="Commit Breakdown" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="Nest.js"/>
+        <br>Nest.js (Backend Architecture)
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular"/>
+        <br>Advanced Angular Patterns
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
+        <br>Advanced React Patterns
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
+        <br>FastAPI Optimization
+      </td>
+    </tr>
+  </table>
+</div>
 
-<hr style="height:0.5px; border:none; color:gray; background-color:gray; margin: 4px 0;">
+<hr/>
+
+## 🎯 Goals for 2025
+
+- 🌐 Contribute to **open-source web and backend projects**  
+- 🔍 Build a **personal brand** as a System Analyst & Fullstack Developer  
+- 🚀 Master **Nest.js, Angular, and advanced MERN stack features**  
+- ⚙️ Build **complex and scalable web applications**  
+- 🛠️ Deepen knowledge in **system analysis, modular design, and microservices architecture**  
+- 💻 Develop **high-performance APIs** and implement **modern backend solutions**  
+- 🧩 Learn advanced **frontend patterns**, motion design, and user-centered interface improvements
+
+<hr/>
+
 
 ### 📬 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dost-mohammad-fahimi/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="margin-right: 10px;"/>
-  </a>
-  <a href="mailto:dmfahimiiiii730@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dost-mohammad-fahimi/"><img src="https://img.shields.io/badge/LinkedIn-Dost_Mohammad_Fahimi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dmfahimiiiii730@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmfahimiiiii730@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/DostMohammadFahimi"><img src="https://img.shields.io/badge/GitHub-DostMohammadFahimi-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
