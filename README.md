@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  <p>🎓 B.Sc. in Computer Science @ Your University</p>
+  <p>🎓 B.Sc. in Computer Science @ Kabul Polytechnic University, Afghanistan</p>
   <p>💻 Passionate System Analyst & Fullstack Developer | MERN Stack & React.js Specialist</p>
   <p>🚀 Turning complex systems into clean, scalable solutions</p>
 </div>
