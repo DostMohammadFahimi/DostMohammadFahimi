@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Dost+Mohammad+Fahimi!;System+Analyst+%26+Designer;Frontend+%2F+MERN+Stack Developer;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Dost+Mohammad+Fahimi!;System+Analyst+%26+Designer;Frontend+%2F+MERN+Stack+Developer;Open+Source+Enthusiast" />
 </h1>
 
 <div align="center">
@@ -44,31 +44,40 @@
 <div align="center">
   <h3>Backend & Databases</h3>
   <p>
-    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" /></a>
-    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" /></a>
-    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" /></a>
-    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" /></a>
-    <a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50" height="50" alt="Nest.js" /></a>
+    <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
   </p>
 
   <h3>Frontend</h3>
   <p>
-    <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" /></a>
-    <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" /></a>
-    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" /></a>
-    <a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="Angular" /></a>
-    <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" /></a>
-    <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" /></a>
+    <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.w3schools.com/html/"><img src="https://skillicons.dev/icons?i=html" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
   </p>
 
   <h3>Tools & Platforms</h3>
   <p>
-    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" /></a>
-    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" /></a>
-    <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" /></a>
-    <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50" /></a>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+    <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="50" height="50" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
   </p>
 </div>
+
+<style>
+  .tech-icon {
+    transition: transform 0.3s ease;
+  }
+  .tech-icon:hover {
+    transform: scale(1.2);
+  }
+</style>
 
 <hr/>
 
@@ -78,20 +87,16 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="Nest.js"/>
-        <br>Nest.js (Backend Architecture)
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="Nest.js" class="tech-icon"/>
+        <br>Nest.js Framework
       </td>
       <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular"/>
-        <br>Advanced Angular Patterns
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="48" height="48" alt="Angular" class="tech-icon"/>
+        <br>Angular Framework
       </td>
       <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/>
-        <br>Advanced React Patterns
-      </td>
-      <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI"/>
-        <br>FastAPI Optimization
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" class="tech-icon"/>
+        <br>FastAPI Development
       </td>
     </tr>
   </table>
@@ -109,16 +114,6 @@
 - 💻 Develop **high-performance APIs** and implement **modern backend solutions**  
 - 🧩 Learn advanced **frontend patterns**, motion design, and user-centered interface improvements  
 
-<hr/>
-
-### 🧩 System Analysis & Design Skills
-
-- 🔍 Requirement gathering, stakeholder interviews & documentation  
-- 📊 Data modeling using ER diagrams & NoSQL schemas  
-- 🧩 Modular architecture design & microservices  
-- ⚙️ RESTful API design & versioning  
-- 🧪 Testing strategy & quality assurance  
-- 📋 Tools: Figma, Lucidchart, Postman
 
 <hr/>
 
