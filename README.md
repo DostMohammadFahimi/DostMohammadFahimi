@@ -87,7 +87,7 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48" alt="Nest.js" class="tech-icon"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="Nest.js" class="tech-icon"/>
         <br>Nest.js Framework
       </td>
       <td align="center" width="25%">
