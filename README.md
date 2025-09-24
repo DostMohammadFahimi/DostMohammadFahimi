@@ -31,7 +31,7 @@
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 - 🧠 **System Analyst & Designer** focused on requirement analysis, data modeling, and scalable architecture  
-- 🌱 Continuously learning **Next.js, TailwindCSS, Microservices, Nest.js, Angular**, and advanced MERN stack patterns  
+- 🌱 Continuously learning **Next.js, TailwindCSS, Microservices,  
 - ⚡ Strong believer in **Clean Code, Modular Design & Reusability**  
 - 💡 Enjoy solving complex problems and building high-performance web apps  
 - 🌍 Based in Afghanistan, coding for the world  
