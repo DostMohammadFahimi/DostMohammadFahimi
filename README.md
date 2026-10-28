@@ -15,15 +15,9 @@
 </h1>
 
 <div align="center">
-  <p>
-    🎓 Computer Science Graduate — Kabul Polytechnic University
-  </p>
-  <p>
-    💻  specializing in Information Systems, software development, and system analysis and design
-  </p>
-  <p>
-    🌍 Afghanistan · Open to Remote Work and Collaboration
-  </p>
+  <p>🎓 Computer Science Graduate — Kabul Polytechnic University</p>
+  <p>💻 Specializing in Information Systems, Software Development, and System Analysis & Design</p>
+  <p>🌍 Afghanistan · Open to Remote Work and Collaboration</p>
 
   <a href="mailto:dmfahimiiiii730@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -41,9 +35,13 @@
 ## 👨‍💻 About Me
 
 <div>
-  <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+  <img
+    align="right"
+    alt="Coding animation"
+    width="350"
+    src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"
+  />
 </div>
-
 
 I'm a Computer Science graduate from **Kabul Polytechnic University, Afghanistan**, specializing in Information Systems, software development, and system analysis and design.
 
@@ -53,8 +51,8 @@ I enjoy transforming complex requirements into well-structured, maintainable, an
 - 🧩 **Core Focus:** System Analysis & Design, Frontend Engineering, Full-Stack Development
 - ⚛️ **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
 - ⚙️ **Backend:** Node.js, Express.js, RESTful APIs
-- 🐍 **Expanding My Skills:** Python, FastAPI, GraphQL
-- 🗄️ **Databases:** MongoDB, MySQL, SQL
+- 🐍 **Expanding My Skills:** Python, FastAPI
+- 🗄️ **Databases:** MongoDB, PostgreSQL, MySQL, SQL
 - 🏗️ **Engineering Interests:** Software Architecture, API Design, Modular Systems
 - 🌍 **Location:** Afghanistan | Open to Remote Opportunities
 - 🚀 **Mission:** Build practical, reliable, and scalable software that solves real-world problems.
@@ -98,9 +96,6 @@ I enjoy transforming complex requirements into well-structured, maintainable, an
   <a href="https://expressjs.com/">
     <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js"/>
   </a>
-  <a href="https://graphql.org/">
-    <img src="https://skillicons.dev/icons?i=graphql" height="48" alt="GraphQL"/>
-  </a>
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/>
   </a>
@@ -117,6 +112,9 @@ I enjoy transforming complex requirements into well-structured, maintainable, an
 <div align="center">
   <a href="https://www.mongodb.com/">
     <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL"/>
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/>
@@ -162,7 +160,7 @@ I'm continuously improving my development skills and exploring technologies that
 | 🏗️ **NestJS** | Modular backend architecture, dependency injection, and maintainable APIs |
 | 🐍 **Python** | Programming fundamentals, automation, and backend development |
 | ⚡ **FastAPI** | Building modern Python APIs, validation, and API documentation |
-| 🔗 **GraphQL** | Schemas, queries, mutations, resolvers, and API integration |
+| 🐘 **PostgreSQL** | Relational database design, SQL queries, relationships, indexing, and query optimization |
 | 🅰️ **Angular** | Component-based frontend development and TypeScript |
 | 🐳 **Docker** | Containerization and consistent development environments |
 | 🧪 **Testing** | API testing, unit testing, and integration testing |
@@ -179,9 +177,9 @@ I'm continuously improving my development skills and exploring technologies that
 - ⚛️ Strengthen advanced **React, Next.js, and TypeScript** skills.
 - 🚀 Build polished, responsive, accessible, and performant web applications.
 - ⚙️ Improve backend engineering with **Node.js, Express.js, and NestJS**.
-- 🔗 Learn to design and implement **RESTful and GraphQL APIs**.
 - 🐍 Develop practical backend projects using **Python and FastAPI**.
-- 🗄️ Improve database design, data modeling, query optimization, and security.
+- 🗄️ Strengthen database skills with **PostgreSQL**, relational data modeling, and query optimization.
+- 🧩 Improve database architecture and integration between frontend and backend services.
 - 🧪 Adopt better testing, debugging, and code-quality practices.
 - 🐳 Learn Docker and improve deployment and development workflows.
 - 🏗️ Deepen knowledge of system analysis, software architecture, and scalable application design.
