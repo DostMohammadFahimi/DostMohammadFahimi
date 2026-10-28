@@ -155,7 +155,30 @@ I enjoy transforming complex requirements into well-structured, maintainable, an
 
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=react-dark)
+
+<!-- GitHub Contribution Activity -->
+
+<h2 align="center">📈 GitHub Contribution Activity</h2>
+
+<p align="center">
+  <i>Consistency, creativity, and continuous improvement.</i>
+</p>
+
+<div align="center">
+  <a href="https://github.com/DostMohammadFahimi">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&bg_color=09090b&color=c4b5fd&line=60a5fa&point=a78bfa&area_color=312e81&area=true&hide_border=true&custom_title=Dost%20Mohammad%20Fahimi%20-%20Contribution%20Graph&height=350&radius=12&days=30"
+      alt="GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://github.com/DostMohammadFahimi?tab=overview">
+    <img src="https://img.shields.io/badge/View%20My%20Contributions-Explore%20GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub contributions"/>
+  </a>
+</p>
 
 <hr/>
 
