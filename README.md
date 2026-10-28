@@ -19,7 +19,7 @@
     🎓 Computer Science Graduate — Kabul Polytechnic University
   </p>
   <p>
-    💻 System Analysis & Design · Frontend Engineering · Full-Stack Development
+    💻  specializing in Information Systems, software development, and system analysis and design
   </p>
   <p>
     🌍 Afghanistan · Open to Remote Work and Collaboration
