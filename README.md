@@ -118,16 +118,42 @@ I enjoy transforming complex requirements into well-structured, maintainable, an
 
 ### 📊 GitHub Analytics
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&count_private=true&theme=radical&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=radical&langs_count=6" height="180"/>
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DostMohammadFahimi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DostMohammadFahimi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Most used programming languages"
+  />
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/DostMohammadFahimi">
-    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=DostMohammadFahimi&theme=algolia&hide_border=true&background=00000000" />
-  </a>
-</p>
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=DostMohammadFahimi&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+
+</div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DostMohammadFahimi&theme=react-dark)
 
