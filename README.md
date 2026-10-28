@@ -1,4 +1,4 @@
-این کد بیو ام است :
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dost%20Mohammad%20Fahimi&fontSize=55&fontAlignY=35&animation=fadeIn" />
 </div>
@@ -140,4 +140,3 @@
 </div>
 
 
-برام این کد را خیلی عالی و پرو بساز
