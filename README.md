@@ -40,6 +40,9 @@
 
 ## 👨‍💻 About Me
 
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+
 I'm a Computer Science graduate from **Kabul Polytechnic University, Afghanistan**, specializing in Information Systems, software development, and system analysis and design.
 
 I enjoy transforming complex requirements into well-structured, maintainable, and scalable software solutions. My main focus is building modern web applications, designing intuitive user interfaces, developing backend services, and creating reliable APIs.
