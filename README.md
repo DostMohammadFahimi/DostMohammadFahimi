@@ -213,11 +213,46 @@ I enjoy transforming complex requirements into well-structured, maintainable, an
 
 ### 📬 Let's Connect
 
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/dost-mohammad-fahimi/"><img src="https://img.shields.io/badge/LinkedIn-Dost_Mohammad_Fahimi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dmfahimiiiii730@gmail.com"><img src="https://img.shields.io/badge/Gmail-dmfahimiiiii730@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/DostMohammadFahimi"><img src="https://img.shields.io/badge/GitHub-DostMohammadFahimi-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+  <a href="mailto:dmfahimiiiii730@gmail.com" title="Send me an Email">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="48"
+      height="48"
+      alt="Gmail"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dost-mohammad-fahimi/" title="Connect on LinkedIn">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="48"
+      height="48"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DostMohammadFahimi" title="Visit my GitHub">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      width="48"
+      height="48"
+      alt="GitHub"
+    />
+  </a>
+
+  <br/><br/>
+
+  <strong>Let's Connect</strong>
+
+  <br/>
+
+  <sub>Open to collaboration, freelance opportunities, and interesting projects.</sub>
+
 </div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
