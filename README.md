@@ -8,9 +8,8 @@
 </h1>
 
 <div align="center">
-  <p>🎓 B.Sc. in Computer Science @ Kabul Polytechnic University, Afghanistan</p>
-  <p>💻 Passionate System Analyst & Fullstack Developer | MERN Stack & React.js Specialist</p>
-  <p>🚀 Turning complex systems into clean, scalable solutions</p>
+  <p>🎓 B.Sc. in Computer Science @ Kabul Polytechnic University, Afghanistan </p>
+  <p>💻  specializing in Information Systems, software development, and system analysis and design </p>
 </div>
 
 <div align="center">
@@ -31,12 +30,19 @@
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-- 🧠 **System Analyst & Designer** focused on requirement analysis, data modeling, and scalable architecture  
-- 🌱 Continuously learning **Next.js, TailwindCSS, Microservices,  
-- ⚡ Strong believer in **Clean Code, Modular Design & Reusability**  
-- 💡 Enjoy solving complex problems and building high-performance web apps  
-- 🌍 Based in Afghanistan, coding for the world  
-- ☕ Fun fact: Debugging feels faster with coffee in hand
+
+I'm a Computer Science graduate from **Kabul Polytechnic University, Afghanistan**, specializing in Information Systems, software development, and system analysis and design.
+
+I enjoy transforming complex requirements into well-structured, maintainable, and scalable software solutions. My primary focus is modern frontend development, full-stack web applications, RESTful APIs, and software system design.
+
+- 🎓 **Education:** B.Sc. in Computer Science — Kabul Polytechnic University
+- 🧩 **Core Focus:** System Analysis & Design, Frontend Engineering, Full-Stack Development
+- ⚛️ **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
+- ⚙️ **Backend:** Node.js, Express.js, RESTful APIs
+- 🗄️ **Databases:** MongoDB, SQL
+- 🏗️ **Engineering Interests:** Software Architecture, Modular Design, Microservices
+- 🌍 **Location:** Afghanistan | Open to remote opportunities
+- 🚀 **Mission:** Build reliable, useful, and scalable software that solves real-world problems.
 
 <br/>
 
